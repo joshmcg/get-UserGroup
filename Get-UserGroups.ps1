@@ -1,7 +1,7 @@
 #Get-UserGroups v0.1 9-21-2018 jpm
 
 #Test Names
-$userNames = @("")
+$userNames = @("") #Enter your test user names here
 $userGroups = @()
 $groupInfo = @()
 $groupInfo = [PSCustomObject] @{}
